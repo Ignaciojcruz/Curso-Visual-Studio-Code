@@ -1,6 +1,3 @@
-# Curso-Visual-Studio-Code
-Curso Visual Studio code - Fernando Herrera
-
 <p align="center">
   <a href="https://fernando-herrera.com/" target="blank"><img src="https://devtalles.com/images/vscode.png" width="100" alt="Nest Logo" /></a>
 </p>
@@ -36,4 +33,3 @@ También hay un par de extensiones bastante útiles que les recomiendo de entrad
 
 # Wallpapers que uso
 [Wallpapers Developer](https://drive.google.com/drive/folders/1ItU8rbSGJjnh2USOBGwaCo9nYKifPJ6m?usp=sharing)
-
