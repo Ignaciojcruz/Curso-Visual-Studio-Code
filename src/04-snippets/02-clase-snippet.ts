@@ -1,8 +1,15 @@
 
 
 
-
-
+class AntiHero {
+    constructor() {
+        console.log('AntiHero initialized');
+    }
+    
+    showAntiHero() {
+        return this;
+    }
+}
 
 
 //! Ejemplo final - Tarea Snippet - c-class
